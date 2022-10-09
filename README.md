@@ -1,3 +1,3 @@
 # CryptoZombies
 
-Exploring and learning Solidity & Web3 with cryptozombies.io, 
+Exploring and learning about Solidity & Web3 with cryptozombies.io.
